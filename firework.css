@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+   /*background: rgb(21, 27, 38);*/
+    
+  }
+  .author{
+      width: 100px;
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      color: rgb(146, 97, 187);
+  }
